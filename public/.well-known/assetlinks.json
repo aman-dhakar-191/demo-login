@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.amandhakar.passkeydemo",
+      "sha256_cert_fingerprints": ["46:53:47:AB:6D:2E:8D:D0:DE:11:E9:33:CC:8E:6C:BE:EC:E3:8D:80:1A:C3:F2:9F:75:01:71:4E:34:6D:99:60"]
+    }
+  }
+]
